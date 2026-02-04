@@ -1,0 +1,1 @@
+This repository contains clean, efficient, and well-documented implementations of fundamental Data Structures and Algorithms in Java. Each implementation includes practical examples, time/space complexity analysis, and real-world applications.
